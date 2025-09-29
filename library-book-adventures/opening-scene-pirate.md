@@ -20,8 +20,8 @@ They're looking at you.
 
 Do you:
 
-⚓ Step up and pretend to be the captain? 
+[⚓ Step up and pretend to be the captain?]
 
-🏃 Hide below deck and figure out what’s going on? 
+[🏃 Hide below deck and figure out what’s going on?]
 
-📖 Try to find the book again and wake up? 
+[📖 Try to find the book again and wake up?]
