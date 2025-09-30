@@ -1,16 +1,17 @@
-# Tinkered
+Tinkered
+========
 
-## Scene 1:
+Scnene 1
+--------
 
-
-You touched the ink-stained corner of that first chapter, the world tilted. The first thing you hear is… _nothing_.
+The first thing you hear is… nothing.
 
 Then:
 
 Whirrrrrrr.
 Click.
 Blink.
-_“BOOT SEQUENCE COMPLETE.”_
+“BOOT SEQUENCE COMPLETE.”
 
 You open your eyes—cameras, actually. The world around you is a pale-blue cube with glowing walls, each one humming with strange symbols. You can feel wires where veins should be. A name flashes in your vision:
 
@@ -32,3 +33,4 @@ Do you:
 [🕸️Enter the Core and search the system for answers?]
 
 [🤖Stay still and pretend you’re offline?]
+
