@@ -1,5 +1,8 @@
 Ahoy!
+======
 Scene 1: Portal
+----------------
+
 You were drawn to the pirate book. It's glowing red exterior sparking more curiosity any cat's ever known.
 
 And when you touched the ink-stained corner of that first chapter, the world tilted.
