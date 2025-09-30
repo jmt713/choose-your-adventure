@@ -1,7 +1,5 @@
-# Ahoy! 
-
-## Scene 1: Portal
-
+Ahoy!
+Scene 1: Portal
 You were drawn to the pirate book. It's glowing red exterior sparking more curiosity any cat's ever known.
 
 And when you touched the ink-stained corner of that first chapter, the world tilted.
@@ -14,9 +12,9 @@ A voice shouts from behind:
 
 “Oy! Captain’s awake! Tell ‘em the storm’s coming back!”
 
-_Captain!?_  You turn.
+Captain!? You turn.
 
-They're looking at you. 
+They're looking at you.
 
 Do you:
 
