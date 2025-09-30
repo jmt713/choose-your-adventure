@@ -1,12 +1,15 @@
-# Fire Breather
 
-## Scene 1:
+Fire Breather
+=========
+Scene 1:
+-------
+
 
 You awaken to fire in your lungs.
 
-Not pain—_power_.
+Not pain—power.
 
-Heat crackles beneath your skin, or rather _scales_. Ash drifts in the morning light, filtering through the mouth of the cave. You stretch, talons scraping stone, wings unfolding for the first time. You are not human. _Not anymore_.
+Heat crackles beneath your skin, or rather scales. Ash drifts in the morning light, filtering through the mouth of the cave. You stretch, talons scraping stone, wings unfolding for the first time. You are not human. Not anymore.
 
 You are dragon.
 
@@ -20,7 +23,7 @@ A voice echoes from deeper in the cave—deep, ancient, yours-but-not:
 
 Do you:
 
-[🕊 Fly away to learn what you are before facing them?]
-[🔥 Defend your mountain and roar your name to the sky?]
+[🕊 Fly away to learn what you are before facing them?] [🔥 Defend your mountain and roar your name to the sky?]
 
 [🌫 Hide in the shadows and listen to what the humans say?]
+
