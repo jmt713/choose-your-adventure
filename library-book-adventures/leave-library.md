@@ -9,6 +9,6 @@ Yet, a small voice inside wonders if maybe you should ask the librarian for advi
 
 What will you do?
 
-[👟Make a run for the exit]
+- :athletic_shoe: [Don't pick up any books and just leave](./run-exit.md)
 
 [👵Ask the Librarian what is really back there]
