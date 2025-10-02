@@ -11,4 +11,4 @@ What will you do?
 
 - :athletic_shoe: [Don't pick up any books and just leave](./run-exit.md)
 
-[👵Ask the Librarian what is really back there]
+-  :question: [Ask the Librarian what is really back there](./trapped-in-library.md)
