@@ -11,10 +11,9 @@ Not pain—power.
 
 Heat simmers beneath your skin—or rather, your scales. Ash swirls in the morning light, drifting through the mouth of the cave. You stretch, talons scraping stone, wings unfurling for the first time.
 
-You are not human.
-Not anymore.
+You're no longer human.
 
-You are dragon.
+You're a dragon. 
 
 And you are not alone.
 
