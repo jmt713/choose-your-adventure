@@ -13,7 +13,7 @@ Heat simmers beneath your skin—or rather, your scales. Ash swirls in the morni
 
 You're no longer human.
 
-You're a dragon. 
+You're a dragon.
 
 And you are not alone.
 
@@ -25,7 +25,9 @@ A voice stirs from the depths of the cave—ancient, thunderous, yours-but-not:
 
 Do you:
 
-[🕊 Fly away—to learn what you are before facing them?]
-[🔥 Defend your mountain and roar your name to the sky?]
-[🌫 Hide in the shadows and listen to what the humans say?]
+- [🕊 Fly away—leave the mountain behind and discover what you are before facing them?]
+
+- [🔥 Defend your mountain and roar your name to the sky?]
+
+- [🌫 Hide in the shadows and listen to what the humans say?]
 
