@@ -23,6 +23,6 @@ Do you:
 
 [⚓ Step up and pretend to be the captain?](./pretend-captain.md)
 
-[🏃 Hide below deck and figure out what’s going on?]
+[🏃 Hide below deck and figure out what’s going on?](./captain-hides.md)
 
 [📖 Try to find the book again and wake up?]
