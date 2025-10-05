@@ -28,7 +28,7 @@ A panel slides open in the wall ahead. Two paths reveal themselves:
 
 Do you:
 
-[🛠️Enter the Workshop and try to repair your memory?]
+[🛠️Enter the Workshop and try to repair your memory?](./workshop-memory.md)
 
 [🕸️Enter the Core and search the system for answers?]
 
