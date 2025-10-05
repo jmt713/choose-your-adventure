@@ -25,7 +25,7 @@ From the depths of the cave, a voice rises—ancient, thunderous, yours-but-not:
 
 Do you:
 
-- [🕊 Fly away—leave the mountain behind and discover what you are before facing them?]
+- [🕊 Fly away—leave the mountain behind and discover what you are before facing them?](./fly-away.md)
 
 - [🔥 Defend your mountain and roar your name to the sky?]
 
