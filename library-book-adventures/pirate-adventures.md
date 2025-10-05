@@ -21,7 +21,7 @@ They're looking at you.
 
 Do you:
 
-[⚓ Step up and pretend to be the captain?]
+[⚓ Step up and pretend to be the captain?](./pretend-captain.md)
 
 [🏃 Hide below deck and figure out what’s going on?]
 
