@@ -14,4 +14,4 @@ You spot a weather-worn chest bolted to the floor near the ladder. The brass loc
 
 [🤔Do you risk opening it before anyone finds you?]
 
-[🏴‍☠️Find a good spot to blend into and attempt to wakeup from the night mare]
+[😭Find a spot to continue hiding]
