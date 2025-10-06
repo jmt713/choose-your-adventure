@@ -14,6 +14,6 @@ _I'm not supposed to be here , what do I do!?_
 
 You spot a weather-worn chest bolted to the floor near the ladder. The brass lock is cracked, and something inside glints when the ship tilts. If you really are the captain, maybe what’s inside will tell you who you’ve become—or what you’ve done.
 
-[🤔Do you risk opening it before anyone finds you?]
+[🤔Do you risk opening it before anyone finds you?](./captains-secrets.md)
 
 [😭Find a spot to continue hiding]
