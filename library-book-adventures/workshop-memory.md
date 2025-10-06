@@ -16,6 +16,6 @@ A robotic whisper echoes behind you. "Be careful what you remember. Some things 
 
 ## What do you restore?
 
-- 🧪 [Access Prototype Test Log 7]
+- 🧪 [Access Prototype Test Log 7](./robot-test-log.md)
 - 🧠 [Restore the Core Ethics File]
 - 🔫 [Reactivate the Combat Subroutine]
