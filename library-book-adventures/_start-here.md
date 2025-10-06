@@ -7,4 +7,4 @@ One of your most favorite hobbies is reading. You love to visit your local libra
 - :closed_book:[Open The Pirate Adventures Book](./pirate-adventures.md)
 - :green_book: [Open the Robot Wars Book](./robot-wars.md)
 - :blue_book: [Open Dragon Fantasy Book](./dragon-fantasy.md)
-- :running: [Don't pick up any books and consider leaving](./leave-library.md)git 
+- :running: [Don't pick up any books and consider leaving](./leave-library.md)
