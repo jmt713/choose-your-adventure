@@ -25,4 +25,4 @@ Do you:
 
 [🏃 Hide below deck and figure out what’s going on?](./captain-hides.md)
 
-[📖 Try to find the book again and wake up?]
+[📖 Try to find the book again and wake up?](./pirate-book-search.md)
