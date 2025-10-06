@@ -30,7 +30,7 @@ Do you:
 
 [🛠️Enter the Workshop and try to repair your memory?](./workshop-memory.md)
 
-[🕸️Enter the Core and search the system for answers?]
+[🕸️Enter the Core and search the system for answers?](./robot-core-search.md)
 
 [🤖Stay still and pretend you’re offline?]
 
