@@ -32,5 +32,5 @@ Do you:
 
 [🕸️Enter the Core and search the system for answers?](./robot-core-search.md)
 
-[🤖Stay still and pretend you’re offline?]
+[🤖Stay still and pretend you’re offline?](./robot-wars-offline.md)
 

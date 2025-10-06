@@ -14,6 +14,6 @@ But you feel drawn to it, like the book called you before.
 
 ## What do you do?
 
-- 🏝️ [Chart a course toward the Isle of Echoes — the mystery is worth the risk]
+- 🏝️ [Chart a course toward the Isle of Echoes — the mystery is worth the risk](./pirate-isle-echos.md)
 - 🌪️ [Avoid the island and focus on surviving the storm]
 - 🧭 [Privately ask the first mate for help—maybe they know more about this ‘Captain’ you’re pretending to be]
