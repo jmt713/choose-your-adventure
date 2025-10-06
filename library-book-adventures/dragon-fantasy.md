@@ -27,7 +27,7 @@ Do you:
 
 - [🕊 Fly away—leave the mountain behind and discover what you are before facing them?](./fly-away.md)
 
-- [🔥 Defend your mountain and roar your name to the sky?]
+- [🔥 Defend your mountain and roar your name to the sky?](./dragon-defend.md)
 
 - [🌫 Hide in the shadows and listen to what the humans say?]
 
