@@ -25,6 +25,6 @@ The ancient voice returns, curling through your mind like smoke:
 “Even dragons must choose their fire… vengeance or mercy.”
 
 
-[🔥 Unleash your full power.]
+[🔥 Unleash your full power.](./scorched-earth.md)
 
 [💧 Lower your fire and speak.]
