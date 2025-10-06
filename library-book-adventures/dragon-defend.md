@@ -27,4 +27,4 @@ The ancient voice returns, curling through your mind like smoke:
 
 [🔥 Unleash your full power.](./scorched-earth.md)
 
-[💧 Lower your fire and speak.]
+[💧 Lower your fire and speak.](./lower-your-fire.md)
