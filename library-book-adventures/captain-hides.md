@@ -16,4 +16,4 @@ You spot a weather-worn chest bolted to the floor near the ladder. The brass loc
 
 [🤔Do you risk opening it before anyone finds you?](./captains-secrets.md)
 
-[😭Find a spot to continue hiding]
+[😭Find a spot to continue hiding](./pirate-keep-hiding.md)
