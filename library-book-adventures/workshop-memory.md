@@ -18,4 +18,4 @@ A robotic whisper echoes behind you. "Be careful what you remember. Some things 
 
 - 🧪 [Access Prototype Test Log 7](./robot-test-log.md)
 - 🧠 [Restore the Core Ethics File](./robot-core-ethics.md)
-- 🔫 [Reactivate the Combat Subroutine]
+- 🔫 [Reactivate the Combat Subroutine](./robot-combat-sub.md)
