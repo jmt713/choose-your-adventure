@@ -22,6 +22,6 @@ A rumble begins beneath the ship. The sea shifts from glass to mirror, showing n
 
 Do you:
 
-📖 Touch the book again — maybe it’s a way back
+📖 [Touch the book again — maybe it’s a way back](./touch-book-again.md)
 
 🪝 Look overboard and investigate the reflection — what does it mean?

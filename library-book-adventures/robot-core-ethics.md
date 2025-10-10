@@ -19,4 +19,4 @@ Do you:
 
 ⚔️ [Confront them and defend your freedom?]
 
-🛠 [Try to escape before they strike?]
+🛠 [Try to escape before they strike?](./try-to-escape.md)
