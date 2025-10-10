@@ -44,5 +44,5 @@ Then, beneath it, a prompt blinks—your own system asking you:
 
 [🔧 Begin self-repair protocol.]
 
-[🚪 Abort and disconnect.]
+[🚪 Abort and disconnect.](./abort-disconnect.md)
 
