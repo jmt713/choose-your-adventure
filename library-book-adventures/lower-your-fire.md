@@ -19,4 +19,4 @@ Do you:
 
 - 🕊 [Offer to protect the village from threats beyond the mountains, forging a new bond](./oath-of-guardianship.md)
 - 📜 [Demand ancient tribute as their guardian wyrm, reclaiming your place but on your terms]
-- 🧠 [Seek out the source of your transformation and uncover the truth behind Flameborn]
+- 🧠 [Seek out the source of your transformation and uncover the truth behind Flameborn](./memory-beneath-flame.md)
