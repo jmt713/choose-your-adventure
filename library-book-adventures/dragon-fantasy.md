@@ -29,5 +29,5 @@ Do you:
 
 - [🔥 Defend your mountain and roar your name to the sky?](./dragon-defend.md)
 
-- [🌫 Hide in the shadows and listen to what the humans say?]
+- [🌫 Hide in the shadows and listen to what the humans say?](./dragon-hide-listen.md)
 

@@ -21,6 +21,6 @@ _“Power always comes with a price, young wyrm.”_
 
 Do you:
 
-- 🕳 [Sink into slumber atop your scorched mountain, letting the world forget your wrath]
+- 🕳 [Sink into slumber atop your scorched mountain, letting the world forget your wrath](./the-last-ember.md)
 - 🦅 [Spread your wings and fly beyond the known lands, searching for others like you] 
 - 👁 [Peer into the ashes, summoning the ancient dragons who once ruled the skies]

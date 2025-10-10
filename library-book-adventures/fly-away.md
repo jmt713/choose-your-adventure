@@ -10,6 +10,6 @@ After hours of flight, you spot an ancient ruined city resting in a valley shrou
 
 Do you:
 
-- 🏰 [Descend into the ruins to uncover lost secrets of your kind]
+- 🏰 [Descend into the ruins to uncover lost secrets of your kind](./dragon-lost-secrets.md)
 - 🌌 [Keep flying toward the distant stars, seeking answers in the unknown]
 - 💤 [Find a quiet mountain ledge to rest and gather your strength]
