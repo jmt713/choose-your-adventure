@@ -17,6 +17,6 @@ The door seals shut.
 
 Do you:
 
-⚔️ [Confront them and defend your freedom?]
+⚔️ [Confront them and defend your freedom?](./robot-defend-freedom.md)
 
 🛠 [Try to escape before they strike?](./try-to-escape.md)
