@@ -35,4 +35,3 @@ The deck tilts. The horizon bends. You feel the pull—not of gravity, but of me
 
 [🌀 Anchor the ship and face the echo.](./pirate-face-echo.md)
 
-[⚓ Press forward.]
