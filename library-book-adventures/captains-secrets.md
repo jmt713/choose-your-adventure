@@ -18,10 +18,17 @@ The ship groans louder than before. The lantern overhead sputters.
 
 Suddenly, you’re not alone down here.
 
-Next Choices:
+Footsteps echo on wet wood. Not yours.
 
-🕯️ Investigate the whisper and the objects more closely
+You run for the ladder.
 
-🏃‍♂️ Slam the chest shut and run—anywhere but here
+A cold hand grabs your ankle.
 
-🗣️ Call out and demand to know what’s happening
+Screams above deck. Silence below.
+
+Later, the crew finds only the chest.
+Inside: a new map.
+A fresh logbook.
+And a compass, spinning...
+
+_— The End —_
