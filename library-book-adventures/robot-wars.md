@@ -1,7 +1,7 @@
 Tinkered
 ========
 
-Scnene 1
+Scene 1
 --------
 
 The first thing you hear is… nothing.
