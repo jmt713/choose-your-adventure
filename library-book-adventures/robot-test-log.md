@@ -42,7 +42,7 @@ Then, beneath it, a prompt blinks—your own system asking you:
 
 “Do you wish to repair yourself?”
 
-[🔧 Begin self-repair protocol.]
+[🔧 Begin self-repair protocol.](./robot-repair-protocol.md)
 
 [🚪 Abort and disconnect.](./abort-disconnect.md)
 
