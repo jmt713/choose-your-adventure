@@ -10,12 +10,12 @@ A spider-like maintenance bot scuttles into the room. Its single glowing eye sca
 
 The bot turns away. The wall where it entered hisses open for just a few seconds. If you act fast, you might be able to slip through.
 
-Or… you could stay hidden and wait. There's something strange about this place. Something watching.
+But you suddenly see a timer in your vision. 
 
-Do you:
+_5...4...3...2.._
 
-🏃 Make a run for the open door?
+You wonder wh-
 
-👁️ Stay hidden and observe who or what comes next?
+_The End_
 
-💡 Attempt a silent system reboot and scan for surveillance?
+
