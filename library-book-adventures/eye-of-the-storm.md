@@ -24,4 +24,4 @@ Do you:
 
 📖 [Touch the book again — maybe it’s a way back](./touch-book-again.md)
 
-🪝 Look overboard and investigate the reflection — what does it mean?
+🪝 [Look overboard and investigate the reflection — what does it mean?](./pirate-reflection.md)
