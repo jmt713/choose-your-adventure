@@ -33,6 +33,5 @@ Your own voice.
 
 The deck tilts. The horizon bends. You feel the pull—not of gravity, but of memory—dragging you toward the glowing shore.
 
-[🌀 Anchor the ship and face the echo.](,/pirate-face-echo.md)
+[🌀 Anchor the ship and face the echo.](./pirate-face-echo.md)
 
-[⚓ Press forward.]
