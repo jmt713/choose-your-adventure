@@ -6,4 +6,4 @@ You must decide whether to:
 
 - [Free the Oracle and hand them the book (trust them)](./oracle-freed.md)
 
-- Keep the book and try to control the ship’s fate yourself
+- [Keep the book and try to control the ship’s fate yourself](./oracle-betrayed.md)
