@@ -34,7 +34,7 @@ They wear a blindfold. One wrist is shackled. But they smile like they’ve seen
 
 Do you:
 
-🗝[Approach the caged figure and ask what they know about the book?]
+🗝[Approach the caged figure and ask what they know about the book?](./caged-oracle.md)
 
 📓 [Keep the logbook, retreat quietly, and sneak into the captain’s quarters to investigate more?]
 
