@@ -36,5 +36,5 @@ Do you:
 
 🗝[Approach the caged figure and ask what they know about the book?](./caged-oracle.md)
 
-📓 [Keep the logbook, retreat quietly, and sneak into the captain’s quarters to investigate more?]
+📓 [Keep the logbook, retreat quietly, and sneak into the captain’s quarters to investigate more?](./captains-quarters.md)
 
