@@ -6,6 +6,6 @@ You find a chart marked with the Spiral emblem, leading to a place labeled “Th
 
 You must choose:
 
-Plot a course there to uncover the ship’s true origin
+- [Plot a course there to uncover the ship’s true origin](./memory-shoals.md)
 
 Burn the chart and logbook to try and break the curse
