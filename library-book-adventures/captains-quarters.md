@@ -8,4 +8,4 @@ You must choose:
 
 - [Plot a course there to uncover the ship’s true origin](./memory-shoals.md)
 
-Burn the chart and logbook to try and break the curse
+- [Burn the chart and logbook to try and break the curse](./burn-book.md)
